@@ -34,3 +34,18 @@ The task was to:
 ---
 
 ## 📂 Project Structure
+- data-1.json → Sample input data (Format 1)
+- data-2.json → Sample input data (Format 2)
+- data-result.json → Final processed output
+- main.py → Python script for data 
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- JSON Processing
+- Data Transformation
+
+
+
